@@ -9,6 +9,29 @@ Il progetto non include una UI o un frontend: il focus è esclusivamente sulla l
 Il repository del progetto è disponibile al seguente link:
 https://github.com/alessandratrapasso095/sunnee-ts
 
+
+## 🎯 Obiettivo formativo
+
+Questo progetto è stato realizzato a scopo didattico per:
+
+esercitare la modellazione di un dominio reale
+
+applicare i concetti fondamentali di TypeScript
+
+utilizzare enum, interfacce e classi in modo corretto
+
+implementare e testare regole di business
+
+---
+
+## 👩‍💻 Autore: Alessandra Trapasso
+
+- 📂 Tutti i repository:
+https://github.com/AlessandraTrapasso095
+
+- per🔗 Sito / Portfolio personale:
+https://alessandra-trapasso-web-developer.netlify.app/
+
 ---
 
 ## Struttura del progetto
@@ -64,28 +87,3 @@ Per eseguire il progetto in locale:
 npm install
 npx tsc
 node dist/index.js
-
-
----
-
-## 🎯 Obiettivo formativo
-
-Questo progetto è stato realizzato a scopo didattico per:
-
-esercitare la modellazione di un dominio reale
-
-applicare i concetti fondamentali di TypeScript
-
-utilizzare enum, interfacce e classi in modo corretto
-
-implementare e testare regole di business
-
----
-
-## 👩‍💻 Autore: Alessandra Trapasso
-
-- 📂 Tutti i repository:
-https://github.com/AlessandraTrapasso095
-
-- per🔗 Sito / Portfolio personale:
-https://alessandra-trapasso-web-developer.netlify.app/
