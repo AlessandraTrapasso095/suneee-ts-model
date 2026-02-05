@@ -4,12 +4,12 @@ Questo progetto modella la struttura operativa di un brand di beachwear sostenib
 
 L’obiettivo è rappresentare, attraverso enum, interfacce e classi, le interazioni tra clienti, prodotti beachwear e processi di produzione sostenibile, simulando alcune regole di business tipiche di un sistema reale.
 
-Il progetto non include una UI o un frontend: il focus è esclusivamente sulla logica applicativa e sulla modellazione del dominio.
+Il progetto non include una UPI o un frontend: il focus è esclusivamente sulla logica applicativa e sulla modellazione del dominio.
 
 ---
 
 ## 🔗 Repository GitHub del progetto
-https://github.com/alessandratrapasso095/sunnee-ts
+https://github.com/AlessandraTrapasso095/suneee-ts-model.git
 
 ## 🚀 CodePen Deploy
 https://codepen.io/AlessandraTrapasso095/pen/gbMjxyp
